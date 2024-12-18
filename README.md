@@ -50,7 +50,7 @@ Siga os passos abaixo para rodar este projeto localmente:
 Use o comando abaixo para clonar o repositório:
 
 ```bash
-git clone https://github.com/itamogi/teste-laravel-jr.git
+git clone https://github.com/itamogi/teste-laravel-jr.git](https://github.com/LHSB1234/teste-laravel-jr.git
 cd teste-laravel-jr
 ```
 
