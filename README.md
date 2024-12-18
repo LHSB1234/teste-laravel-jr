@@ -98,7 +98,7 @@ DB_PASSWORD=sua_senha
 
 MERCADO_LIVRE_CLIENT_ID=seu_client_id
 MERCADO_LIVRE_CLIENT_SECRET=seu_client_secret
-MERCADO_LIVRE_REDIRECT_URI=http://localhost:8000/callback
+MERCADO_LIVRE_REDIRECT_URI=seu_callback
 ```
 
 ---
